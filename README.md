@@ -12,7 +12,8 @@ Collection of test cases for multiple projects, including Trello boards and Exce
 - **CRUD Project**  
   Designed and executed CRUD operation test cases.  
   Tools: Excel  
-  File: [CRUD Test Cases Excel](CRUD Test Cases.xlsx)
+  File: [CRUD Test Cases Excel](https://github.com/Mohamedalaa0879/Test-Cases-Collection/blob/main/CRUD-Test-Cases.xlsx)
+  
 
 - **Bank Transfer Project**  
   Confirm transfer functionality test cases.  
