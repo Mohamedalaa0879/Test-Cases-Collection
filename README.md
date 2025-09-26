@@ -17,4 +17,4 @@ Collection of test cases for multiple projects, including Trello boards and Exce
 - **Bank Transfer Project**  
   Confirm transfer functionality test cases.  
   Tools: Excel  
-  File: [Bank Transfer Test Cases Excel](Bank-Transfer-Test-Cases.xlsx)
+  File: [Bank Transfer Test Cases Excel](https://github.com/Mohamedalaa0879/Test-Cases-Collection/blob/main/tc%20for%20banking%20application.xlsx)
